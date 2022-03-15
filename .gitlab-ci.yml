@@ -4,6 +4,7 @@ stages:
     - build
     - devops-security
     # - policy-scan
+    # This information seems dated.
 
 package:
     stage: build
